@@ -1,0 +1,27 @@
+1.
+# a : 정렬할 배열, n : 배열의 크기
+def bubble_sort(a, n):
+    '''
+    returns sorted array by bubble sort
+
+    :param a: array
+    :param n: length of array
+    :return: sorted array by bubble sort
+    '''
+    #정렬해야 하는 양
+    for i in range(n):
+        #한 번의 정렬에서 비교해야 하는 양
+        for j in range(n - i - 1):
+            #비교 & swap
+            if a[j] < a[j + 1]:
+                a[j], a[j + 1] = a[j + 1], a[j]
+    return a
+
+
+2.
+55 78 7 12 42   78 7 교환
+55 78 12 7 42   12 7 교환
+55 78 12 42 7   42 7 교환
+78 55 12 42 7   78 55 교환
+78 55 42 12 7   42 12 교환
+5번의 교환
