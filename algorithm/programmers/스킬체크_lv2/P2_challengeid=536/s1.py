@@ -43,6 +43,5 @@ def solution(dirs):
     checked = list(set(checked))
 
     return len(checked)//2
-
 print(solution('ULURRDLLU'))
 
