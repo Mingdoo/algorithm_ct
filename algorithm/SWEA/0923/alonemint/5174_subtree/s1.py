@@ -18,7 +18,7 @@ for tc in range(1, T+1):
     E, N = map(int, input().split())
 
     user_input = list(map(int, input().split()))
-    result = [-1] * (2**100)
+    result = [-1] * (2**20)
     for i in range(E):
         parent = user_input[2*i]
         if parent not in result:

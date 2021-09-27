@@ -4,3 +4,5 @@ def solution(numbers):
 
 
 print(solution([6, 10, 2]))
+
+

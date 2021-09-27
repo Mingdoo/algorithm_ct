@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="88ec931a-e775-40a4-ab52-0ec52c780b71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,108 +17,41 @@
     <session id="-981865487">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="20" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8790" />
+          <entry key="py" value="8977" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="8790" />
+          <entry key="Python" value="8977" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/42626_더맵게/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/42748_K번째수/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <marker date="1631101141940" expanded="true" signature="30:31" ph="..." />
-                <marker date="1631101141940" expanded="true" signature="30:35" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/42839_소수찾기/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <marker date="1631102370339" expanded="true" signature="229:231" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/42839_소수찾기/s2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/43165_타겟넘버/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <marker date="1631104929423" expanded="true" signature="39:270" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/42883_큰수만들기/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding>
-                <marker date="1631114867054" expanded="true" signature="0:554" ph="..." />
-                <marker date="1631114867054" expanded="true" signature="0:555" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/스킬체크_lv2/P1_challengeid=250/s1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,11 +73,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/coding_test/210907/강민수/9095_123더하기/s1.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="34" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="18" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/input.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5178_노드의합/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -186,11 +163,16 @@
         <option value="$PROJECT_DIR$/programmers/43238_입국심사/s1.py" />
         <option value="$PROJECT_DIR$/programmers/스킬체크_lv2/P2_challengeid=536/s1.py" />
         <option value="$USER_HOME$/coding_test/210907/강민수/9095_123더하기/s1.py" />
+        <option value="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s2.py" />
+        <option value="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py" />
+        <option value="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s1.py" />
+        <option value="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1273" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1188" />
+    <option name="y" value="203" />
     <option name="width" value="1294" />
     <option name="height" value="1407" />
   </component>
@@ -209,24 +191,6 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="스킬체크_lv2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="스킬체크_lv2" type="462c0819:PsiDirectoryNode" />
-              <item name="P1_challengeid=250" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -235,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../algorithm_pull/0923/alonemint" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -255,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,48 +233,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/coding_test/210907/강민수/9095_123더하기/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/42883_큰수만들기" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/42883_큰수만들기/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/스킬체크_lv2/P1_challengeid=250" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/스킬체크_lv2/P1_challengeid=250/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,6 +262,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -348,11 +291,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/43238_입국심사" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Mandu\Desktop\alg_mandu\algorithm\programmers\스킬체크_lv2\P1_challengeid=250\s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,19 +326,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.s1 (2)" />
-      <item itemvalue="Python.s1" />
-      <item itemvalue="Python.s1 (3)" />
       <item itemvalue="Python.s1 (4)" />
       <item itemvalue="Python.s1 (1)" />
+      <item itemvalue="Python.s1 (5)" />
+      <item itemvalue="Python.s2" />
+      <item itemvalue="Python.s1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.s2" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -392,14 +356,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="1188" y="203" width="1294" height="1407" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12371946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2995283" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31839624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39578456" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,10 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <marker date="1631101141940" expanded="true" signature="30:31" ph="..." />
-            <marker date="1631101141940" expanded="true" signature="30:35" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,9 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <marker date="1631102370339" expanded="true" signature="229:231" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,9 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <marker date="1631104929423" expanded="true" signature="39:270" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,13 +463,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <marker date="1631114867054" expanded="true" signature="0:554" ph="..." />
-            <marker date="1631114867054" expanded="true" signature="0:555" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s2.py" />
     <entry file="file://$PROJECT_DIR$/programmers/스킬체크_lv2/P1_challengeid=250/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -533,6 +484,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/coding_test/210907/강민수/9095_123더하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5178_노드의합/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/42883_큰수만들기/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -540,10 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/coding_test/210907/강민수/9095_123더하기/s1.py">
+    <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

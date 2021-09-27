@@ -11,6 +11,7 @@ for tc in range(1, T+1):
     while queue:
         v = queue.pop(0)
         heapq.heappush(heap, v)
+
     heap = [-1] + heap
 
     idx = len(heap) - 1

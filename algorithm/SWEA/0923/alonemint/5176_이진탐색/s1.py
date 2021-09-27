@@ -11,7 +11,6 @@ def tree(n, N):
         node += 1
         tree(2*n+1, N)
 
-
 for tc in range(1, T+1):
     N = int(input())
     res = [-1] + [0] * N
