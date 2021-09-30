@@ -72,6 +72,7 @@ def initialization(auth_key):
     return
 
 
+
 # init(모든 rank 초기화)를 하려면 아래 코드를 실행하면 됨.
 initialization(auth_key)
 print(grade)
@@ -88,7 +89,7 @@ def elo_system(game_result):
         E_w = 1 / (1 + 10 ** ((grade_loser - grade_winner) / 400))
         E_l = 1 / (1 + 10 ** ((grade_winner - grade_loser) / 400))
         print(f'{winner}의 grade : {grade_winner} => ', end = '')
-        grade[winner]['grade'] += K * E_l
+        grade[winner]['grade'] += K * (1 - E_w)
         print(grade[winner]['grade'])
         print(f'{loser}의 grade : {grade_loser} => ', end='')
         grade[loser]['grade'] -= K * E_l
