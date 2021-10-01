@@ -1,7 +1,7 @@
 import sys
 import heapq
 inf = sys.maxsize
-
+sys.stdin = open('input.txt')
 N, M = map(int, sys.stdin.readline().split())
 
 vision = list(map(int, sys.stdin.readline().split()))
