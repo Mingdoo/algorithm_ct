@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/baekjoon/2941_크로아티아알파벳/s1.py" line="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f5fda9d-b419-4291-81cd-2807965cfe6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/1316_그룹단어체커/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/2922_즐거운단어/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/2941_크로아티아알파벳/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/4673_셀프넘버/s1.py" afterDir="false" />
+=======
   <component name="ChangeListManager">
     <list default="true" id="88ec931a-e775-40a4-ab52-0ec52c780b71" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/baekjoon/1065_한수/s1.py" afterDir="false" />
@@ -14,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/programmers/kakao_210925/problem1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/kakao_210925/problem1_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/kakao_210925/problem2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/kakao_210925/problem2_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kakao_test2_code.zip" beforeDir="false" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +36,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baekjoon/2922_즐거운단어/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+=======
   <component name="FUSProjectUsageTrigger">
     <session id="-981865487">
       <usages-collector id="statistics.lifecycle.project">
@@ -68,15 +101,23 @@
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+=======
         <entry file="file://$PROJECT_DIR$/baekjoon/17396_백도어/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
             </state>
           </provider>
         </entry>
@@ -96,6 +137,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/baekjoon/4673_셀프넘버/s1.py" />
+        <option value="$PROJECT_DIR$/baekjoon/1316_그룹단어체커/s1.py" />
+        <option value="$PROJECT_DIR$/baekjoon/2941_크로아티아알파벳/s1.py" />
+        <option value="$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/input.txt" />
+        <option value="$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/s1.py" />
+        <option value="$PROJECT_DIR$/baekjoon/2922_즐거운단어/s1.py" />
+=======
         <option value="$PROJECT_DIR$/programmers/42576_완주하지못한선수/input.txt" />
         <option value="$PROJECT_DIR$/programmers/42576_완주하지못한선수/s1.py" />
         <option value="$PROJECT_DIR$/programmers/42576_완주하지못한선수/s2.py" />
@@ -120,13 +169,20 @@
         <option value="$PROJECT_DIR$/baekjoon/17352_여러분의다리가되어드리겠습니다!/s1.py" />
         <option value="$PROJECT_DIR$/baekjoon/17396_백도어/input.txt" />
         <option value="$PROJECT_DIR$/baekjoon/17396_백도어/s1.py" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+=======
     <option name="x" value="1273" />
     <option name="width" value="1294" />
     <option name="height" value="1407" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -136,7 +192,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,16 +208,26 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
               <item name="17396_백도어" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,6 +238,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\programmers\스킬체크_lv2\P1_challengeid=250" />
     </key>
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,8 +252,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.s1 (4)">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
   <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,11 +266,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/1316_그룹단어체커" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/1316_그룹단어체커/s1.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/17352_여러분의다리가되어드리겠습니다!" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/17352_여러분의다리가되어드리겠습니다!/s1.py" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +287,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,11 +299,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/2941_크로아티아알파벳" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2941_크로아티아알파벳/s1.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/17396_백도어" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/17396_백도어/s1.py" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +320,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +332,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/1541_잃어버린괄호" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/s1.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/0923/alonemint/5174_subtree/s1.py" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +353,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +365,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/2922_즐거운단어" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2922_즐거운단어/s1.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/0923/alonemint/5177_이진힙/s1.py" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +386,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +398,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/4673_셀프넘버" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/4673_셀프넘버/s1.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/0923/alonemint/5176_이진탐색/s2.py" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,6 +419,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1" />
+=======
     <list>
       <item itemvalue="Python.s1 (5)" />
       <item itemvalue="Python.s2" />
@@ -302,6 +442,7 @@
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s2" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       </list>
     </recent_temporary>
   </component>
@@ -310,22 +451,46 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="5f5fda9d-b419-4291-81cd-2807965cfe6c" name="Default Changelist" comment="" />
+      <created>1631429367089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631429367089</updated>
+=======
       <changelist id="88ec931a-e775-40a4-ab52-0ec52c780b71" name="Default Changelist" comment="" />
       <created>1631096107765</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631096107765</updated>
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33547008" />
+=======
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32968238" />
+=======
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31839624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39544025" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -333,12 +498,27 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+<<<<<<< HEAD
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/2941_크로아티아알파벳/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+=======
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -518,10 +698,38 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/1065_한수/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/baekjoon/4673_셀프넘버/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/1316_그룹단어체커/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/1541_잃어버린괄호/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/2922_즐거운단어/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+=======
     <entry file="file://$PROJECT_DIR$/SWEA/0923/alonemint/5178_노드의합/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -550,6 +758,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+>>>>>>> 9365d2db9ccdcbe0ca833edbbfcaafd3161f99bc
         </state>
       </provider>
     </entry>
