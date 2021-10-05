@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a114fbf-6463-450e-b999-9bdfcd582561" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1005/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5188_최소합/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5188_최소합/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5189_전자카트/s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5189_전자카트/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5189_전자카트/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5189_전자카트/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5201_컨테이너운반/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5201_컨테이너운반/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5202_화물도크/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5202_화물도크/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5203_베이비진게임/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1005/alonemint/5203_베이비진게임/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programmers/42578_위장/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programmers/42583_다리를지나는트럭/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programmers/42842_카펫/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baekjoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baekjoon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../programmers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/42578_위장/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/42578_위장/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/42583_다리를지나는트럭/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/42583_다리를지나는트럭/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/42842_카펫/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/42842_카펫/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +19,7 @@
     <session id="1993955911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.opened" value="8" />
@@ -52,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12140" />
+          <entry key="py" value="12171" />
           <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="12140" />
+          <entry key="Python" value="12171" />
         </counts>
       </usages-collector>
     </session>
@@ -69,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1005/alonemint/5188_최소합/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
+            <state relative-caret-position="581">
               <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
@@ -96,16 +83,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1005/alonemint/5203_베이비진게임/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="216">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1005/alonemint/5189_전자카트/s.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -192,10 +179,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1355" />
-    <option name="y" value="97" />
+    <option name="x" value="892" />
+    <option name="y" value="60" />
     <option name="width" value="1294" />
-    <option name="height" value="1407" />
+    <option name="height" value="1404" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -212,87 +199,6 @@
               <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0826" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0826" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0923" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0923" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0929" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0929" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0930" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="0930" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="1001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="1005" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="1005" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="1005" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-              <item name="5188_최소합" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="1005" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-              <item name="5189_전자카트" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="1005" type="462c0819:PsiDirectoryNode" />
-              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
-              <item name="5203_베이비진게임" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -301,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../programmers" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -469,21 +375,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1355" y="97" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
+    <frame x="892" y="60" width="1294" height="1404" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23009554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23009554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40880504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40593287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968774" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3325453" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -689,10 +594,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1005/alonemint/1244_최대상금/input.txt" />
     <entry file="file://$PROJECT_DIR$/1005/alonemint/1244_최대상금/s1.py" />
-    <entry file="file://$PROJECT_DIR$/1005/alonemint/5188_최소합/s1.py">
+    <entry file="file://$PROJECT_DIR$/1005/alonemint/5189_전자카트/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0930/alonemint/1242_암호코드스캔/sample_input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="366012">
+          <caret line="13556" column="50" selection-start-line="13556" selection-start-column="50" selection-end-line="13556" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/alonemint/5203_베이비진게임/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/alonemint/5189_전자카트/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -706,6 +628,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1005/alonemint/5188_최소합/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1005/alonemint/5189_전자카트/s.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -713,30 +642,6 @@
           <folding>
             <marker date="1633411317784" expanded="true" signature="11:16" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1005/alonemint/5189_전자카트/sample_input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0930/alonemint/1242_암호코드스캔/sample_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366012">
-          <caret line="13556" column="50" selection-start-line="13556" selection-start-column="50" selection-end-line="13556" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1005/alonemint/5189_전자카트/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1005/alonemint/5203_베이비진게임/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="30" selection-end-column="25" />
         </state>
       </provider>
     </entry>
