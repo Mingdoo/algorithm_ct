@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4168e5-d0b0-4efa-88f7-cd844cb7c5ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1389_케빈베이컨의6단계법칙/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1654_랜선자르기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/2231_분해합/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/programmers/82612_부족한금액계산하기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/programmers/83201_상호평가/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm_ct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm_ct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/SWEA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/SWEA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5202_화물도크/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5202_화물도크/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5203_베이비진게임/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5203_베이비진게임/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/baekjoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/baekjoon/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +52,7 @@
     <session id="-2102492799">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -72,78 +61,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="8" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="12" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3303" />
+          <entry key="py" value="5466" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="3303" />
+          <entry key="Python" value="5466" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1244_스위치/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/Python37-32/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="292" selection-start-line="292" selection-end-line="292" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5203_베이비진게임/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,14 +115,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/programmers/83201_상호평가/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="189">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding>
                 <marker date="1633521483806" expanded="true" signature="37:38" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding>
+                <marker date="1633526769931" expanded="true" signature="17:152" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -218,12 +213,17 @@
         <option value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s2.py" />
         <option value="$PROJECT_DIR$/algorithm/programmers/82612_부족한금액계산하기/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/programmers/83201_상호평가/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/input.txt" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1199" />
-    <option name="y" value="34" />
+    <option name="x" value="2361" />
+    <option name="y" value="313" />
     <option name="width" value="1294" />
     <option name="height" value="1365" />
   </component>
@@ -287,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (5)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,6 +309,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm_ct" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,11 +338,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +351,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,11 +359,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/programmers/82612_부족한금액계산하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/programmers/82612_부족한금액계산하기/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,32 +380,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm_ct" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/programmers/42584_주식가격" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,19 +394,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.s1 (3)" />
-      <item itemvalue="Python.s2" />
-      <item itemvalue="Python.s2 (1)" />
-      <item itemvalue="Python.s1" />
       <item itemvalue="Python.s1 (1)" />
+      <item itemvalue="Python.s1 (2)" />
+      <item itemvalue="Python.s1 (4)" />
+      <item itemvalue="Python.s1 (3)" />
+      <item itemvalue="Python.s1 (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s2 (1)" />
+        <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -424,15 +424,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1199" y="34" width="1294" height="1365" extended-state="0" />
-    <editor active="true" />
+    <frame x="2361" y="313" width="1294" height="1365" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3398374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3278302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,11 +529,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/programmers/83201_상호평가/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="189">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <marker date="1633521483806" expanded="true" signature="37:38" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <marker date="1633526769931" expanded="true" signature="17:152" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
