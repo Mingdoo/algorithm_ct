@@ -22,7 +22,7 @@ while True:
                     print('no')
                     flag = False
                     break
-        if stack:
+        if stack and flag:
             print('no')
         if flag and not stack:
             print('yes')
