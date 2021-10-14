@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4168e5-d0b0-4efa-88f7-cd844cb7c5ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10845_큐/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +57,7 @@
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="73" />
+          <entry key="py" value="74" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
@@ -68,34 +66,25 @@
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="73" />
+          <entry key="Python" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="26972" />
+          <entry key="py" value="27039" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="26972" />
+          <entry key="Python" value="27039" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/4153_직각삼각형/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/9012_괄호/s1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,21 +151,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="35" column="22" lean-forward="true" selection-end-line="41" selection-end-column="24" />
+            <state relative-caret-position="513">
+              <caret line="34" column="27" lean-forward="true" selection-end-line="41" selection-end-column="24" />
               <folding>
-                <marker date="1634186582521" expanded="true" signature="24:29" ph="..." />
-                <marker date="1634186582521" expanded="true" signature="101:141" ph="..." />
+                <marker date="1634186840891" expanded="true" signature="24:29" ph="..." />
+                <marker date="1634186840891" expanded="true" signature="101:141" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s2.py">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10845_큐/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -196,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5205_퀵정렬/s2.py" />
         <option value="$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5207_분할정복/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5204_병합정렬/s1.py" />
@@ -247,6 +247,7 @@
         <option value="$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s2.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/10845_큐/s1.py" />
       </list>
     </option>
   </component>
@@ -287,6 +288,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
               <item name="10828_스택" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="10845_큐" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
@@ -369,7 +377,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s2">
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -412,27 +420,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm_ct" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -446,6 +433,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm_ct" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/10845_큐" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/10845_큐/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,19 +484,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.s1 (4)" />
       <item itemvalue="Python.s1 (5)" />
       <item itemvalue="Python.s1 (2)" />
       <item itemvalue="Python.s1 (3)" />
       <item itemvalue="Python.s2" />
+      <item itemvalue="Python.s1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s2" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (5)" />
-        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -509,18 +517,18 @@
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28105095" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28105095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36713836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36713836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40015724" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32704404" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32704404" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -562,13 +570,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5209_최소생산비용/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5208_전기버스2/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -887,21 +888,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s1.py">
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="35" column="22" lean-forward="true" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="567">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
-            <marker date="1634186582521" expanded="true" signature="24:29" ph="..." />
-            <marker date="1634186582521" expanded="true" signature="101:141" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s2.py">
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10828_스택/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="513">
+          <caret line="34" column="27" lean-forward="true" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <marker date="1634186840891" expanded="true" signature="24:29" ph="..." />
+            <marker date="1634186840891" expanded="true" signature="101:141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10845_큐/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
