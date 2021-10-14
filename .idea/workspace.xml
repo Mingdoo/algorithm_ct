@@ -2,18 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4168e5-d0b0-4efa-88f7-cd844cb7c5ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1017_소수쌍/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1149_RGB거리/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/programmers/43162_네트워크/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/programmers/43163_단어변환/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/2105_디저트카페/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/2105_디저트카페/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/4012_요리사/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/4012_요리사/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/5656_벽돌깨기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/5656_벽돌깨기/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5247_연산/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5248_그룹나누기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10250_ACM호텔/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1052_물병/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10814_나이순정렬/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/11650_좌표정렬하기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1920_수찾기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1929_소수구하기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/1966_프린터큐/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/2164_카드2/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/2609_최대공약수와최소공배수/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/2798_블랙잭/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/4153_직각삼각형/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/baekjoon/9012_괄호/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/programmers/49189_가장먼노드/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,36 +76,38 @@
     <session id="-2102492799">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="40" />
-          <entry key="txt" value="9" />
+          <entry key="md" value="1" />
+          <entry key="py" value="71" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="40" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="16421" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="26002" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="16421" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="26002" />
         </counts>
       </usages-collector>
     </session>
@@ -95,90 +115,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/programmers/43162_네트워크/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/programmers/43163_단어변환/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <marker date="1633952849666" expanded="true" signature="107:713" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="14" column="100" lean-forward="true" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1149_RGB거리/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="19" column="18" lean-forward="true" selection-end-line="26" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/s1.py">
+        <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5248_그룹나누기/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2798_블랙잭/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/4153_직각삼각형/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/9012_괄호/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10250_ACM호텔/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10814_나이순정렬/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="16" lean-forward="true" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1017_소수쌍/s1.py">
+        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="378">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -198,19 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm/baekjoon/1244_스위치/input.txt" />
-        <option value="$PROJECT_DIR$/algorithm/baekjoon/1244_스위치/s1.py" />
-        <option value="$PROJECT_DIR$/s1.py" />
-        <option value="$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5203_베이비진게임/s1.py" />
-        <option value="$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s1.py" />
-        <option value="$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s2.py" />
-        <option value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/input.txt" />
-        <option value="$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s2.py" />
-        <option value="$PROJECT_DIR$/algorithm/programmers/82612_부족한금액계산하기/s1.py" />
-        <option value="$PROJECT_DIR$/algorithm/programmers/83201_상호평가/s1.py" />
-        <option value="$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py" />
-        <option value="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/input.txt" />
-        <option value="$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5205_퀵정렬/s2.py" />
@@ -227,7 +235,6 @@
         <option value="$PROJECT_DIR$/algorithm/programmers/43162_네트워크/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/programmers/43163_단어변환/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/input.txt" />
-        <option value="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/1149_RGB거리/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/input.txt" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/s1.py" />
@@ -237,6 +244,32 @@
         <option value="$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/2842_집배원한상덕/s1.py" />
         <option value="$PROJECT_DIR$/algorithm/baekjoon/1017_소수쌍/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/4012_요리사/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/2105_디저트카페/sample_input.txt" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/5656_벽돌깨기/sample_input.txt" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/5656_벽돌깨기/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/2105_디저트카페/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/1920_수찾기/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/1929_소수구하기/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/11650_좌표정렬하기/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/2609_최대공약수와최소공배수/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/2164_카드2/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/programmers/49189_가장먼노드/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/1052_물병/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/1966_프린터큐/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5247_연산/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5248_그룹나누기/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/2798_블랙잭/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/4153_직각삼각형/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/9012_괄호/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/10250_ACM호텔/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/10814_나이순정렬/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s1.py" />
+        <option value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s2.py" />
+        <option value="$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2/s1.py" />
       </list>
     </option>
   </component>
@@ -253,7 +286,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,13 +308,52 @@
               <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
               <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="1017_소수쌍" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="1014" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="1014" type="462c0819:PsiDirectoryNode" />
+              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="1014" type="462c0819:PsiDirectoryNode" />
+              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
+              <item name="5249_최소신장트리" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg_mandu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg_mandu" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="1014" type="462c0819:PsiDirectoryNode" />
+              <item name="alonemint" type="462c0819:PsiDirectoryNode" />
+              <item name="5251_최소이동거리" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,7 +366,11 @@
       <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1007\alonemint" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1006\alonemint\1865_동철이의일분배" />
+      <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1014\alonemint\5251_최소이동거리" />
+      <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1014\alonemint\5250_최소비용" />
+      <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1014\alonemint\5249_최소신장트리" />
+      <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1012\alonemint\2105_디저트카페" />
+      <recent name="C:\Users\Mandu\Desktop\alg_mandu\algorithm\SWEA\1012\alonemint\4012_요리사" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -310,7 +385,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (2)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,11 +394,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/1017_소수쌍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/10814_나이순정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/1017_소수쌍/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/10814_나이순정렬/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,11 +415,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_ct" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,11 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +457,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/11400_단절선" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,11 +478,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/baekjoon/1149_RGB거리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/baekjoon/1149_RGB거리/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,19 +492,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.s1 (1)" />
+      <item itemvalue="Python.s1 (4)" />
       <item itemvalue="Python.s1" />
       <item itemvalue="Python.s1 (5)" />
       <item itemvalue="Python.s1 (2)" />
-      <item itemvalue="Python.s1 (3)" />
-      <item itemvalue="Python.s1 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1" />
+        <item itemvalue="Python.s1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -448,20 +523,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28184712" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28105095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4355346" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40172955" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36713836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40015724" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3270882" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32704404" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -491,141 +565,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5247_연산/s1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/s1.py" />
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1005/alonemint/5203_베이비진게임/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python37-32/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="292" selection-start-line="292" selection-end-line="292" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1244_스위치/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1244_스위치/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/programmers/42584_주식가격/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/programmers/82612_부족한금액계산하기/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/programmers/83201_상호평가/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2775_부녀회장이될테야/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11444_피보나치수6/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/18111_마인크래프트/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1874_스택수열/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5204_병합정렬/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5207_분할정복/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1007/alonemint/5205_퀵정렬/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1006/alonemint/1865_동철이의일분배/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -651,9 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1633583546868" expanded="true" signature="73:326" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,6 +640,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/input.txt" />
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/s1.py" />
     <entry file="file://$PROJECT_DIR$/algorithm/programmers/43162_네트워크/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -703,47 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <marker date="1633952849666" expanded="true" signature="107:713" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="14" column="100" lean-forward="true" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11400_단절선/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,13 +670,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="19" column="18" lean-forward="true" selection-end-line="26" selection-end-column="14" />
+        <state relative-caret-position="513">
+          <caret line="19" column="18" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -771,17 +691,228 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10026_적록색약/s1.py">
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1987_알파벳/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        <state relative-caret-position="108">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/4012_요리사/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1279">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/2105_디저트카페/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/5656_벽돌깨기/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1008/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/2105_디저트카페/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="19" lean-forward="true" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/4012_요리사/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="14" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1012/alonemint/5656_벽돌깨기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1920_수찾기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2475_검증수/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/22942_데이터체커/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/programmers/49189_가장먼노드/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1052_물병/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1316_그룹단어체커/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1017_소수쌍/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1929_소수구하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/11650_좌표정렬하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2609_최대공약수와최소공배수/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2164_카드2/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/1966_프린터큐/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5247_연산/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <marker date="1634174982088" expanded="true" signature="43:465" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5248_그룹나누기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/2798_블랙잭/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/4153_직각삼각형/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/9012_괄호/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10250_ACM호텔/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10814_나이순정렬/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5250_최소비용/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5249_최소신장트리/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="16" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/SWEA/1014/alonemint/5251_최소이동거리/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/baekjoon/10816_숫자카드2/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>

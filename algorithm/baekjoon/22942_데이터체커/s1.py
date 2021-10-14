@@ -6,7 +6,7 @@ from collections import deque
 N = int(input())
 
 circles = [list(map(int, input().split())) for _ in range(N)]
-circles = deque(sorted(circles, key=lambda a: a[0]+a[1]))
+circles = sorted(circles, key=lambda a: a[0]+a[1])
 
 flag = True
 while circles and flag:
