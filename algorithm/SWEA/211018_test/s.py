@@ -1,0 +1,1 @@
+print(bin(int('FAD', 16)))

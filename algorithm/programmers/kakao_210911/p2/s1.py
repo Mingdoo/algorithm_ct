@@ -27,6 +27,5 @@ def solution(n, k):
             answer += 1
     return answer
 
-print(['a','b','c','d','e','f','g'])
 print(solution(4480785, 7))
 
