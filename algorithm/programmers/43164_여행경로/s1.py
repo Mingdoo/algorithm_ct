@@ -7,6 +7,7 @@ def solution(tickets):
         if not table.get(end, 0):
             table[end] = []
         table[start].append(end)
+
     def dfs(start):
         while table[start]:
             end = table[start].pop(0)
@@ -14,7 +15,7 @@ def solution(tickets):
         if not table[start]:
             answer.append(start)
     dfs('ICN')
-    answer.reverse()
+    answer = list(reversed(answer))
     return answer
 #{'ATL': ['ICN', 'SFO'], 'ICN': ['ATL', 'SFO'], 'SFO': ['ATL']}
 print(solution([["ICN", "AFO"], ["ICN", "ATL"], ["AFO", "ATL"], ["ATL", "ICN"], ["ATL","AFO"]]))
