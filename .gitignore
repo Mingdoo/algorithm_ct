@@ -326,7 +326,7 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
+algorithm/javascript/polaris/
 # Windows shortcuts
 *.lnk
 
